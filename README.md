@@ -2,4 +2,4 @@
 
 This is an Notes App using Room database that performs CRUD operation with MVVM architecture with dependency injection
 
-<img src="https://github.com/shalenMathew/Movie_Dash_App/assets/119736953/15be1b11-dcfa-49c9-b7ea-a94b8204f789" alt="Splash_Screen" width="250" height="500">
+<img src="https://github.com/shalenMathew/Notes_App_JAVA/blob/master/github%20pics/Screenshot_20230915_144937.png" alt="Splash_Screen" width="250" height="500">
